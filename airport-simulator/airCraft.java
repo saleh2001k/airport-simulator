@@ -4,6 +4,7 @@ public class airCraft {
     private int code;
     private String modle;
     private String manufacturer;
+    
 
     public airCraft(int code, String modle, String manufacturer) {
         this.code = code;
