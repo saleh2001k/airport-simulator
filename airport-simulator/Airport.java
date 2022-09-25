@@ -70,6 +70,7 @@ public class Airport {
 
 //    /    arrivalFlights.add(addA);}
 
+    
     @Override
     public String toString() {
         return "Airport name :"+name+",City :"+city+",Country:"+country+",Departing flights:"+departingFlights+",Arrival flights:"+arrivalFlights;
