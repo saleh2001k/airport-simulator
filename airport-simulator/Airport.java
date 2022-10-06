@@ -9,6 +9,8 @@ public class Airport {
     private ArrayList<String> departingFlights;
     private ArrayList<String> arrivalFlights;
 
+    
+    
 
     public Airport(String name, String city, String country, ArrayList<String> departingFlights, ArrayList<String> arrivalFlights) {
         this.name = name;
