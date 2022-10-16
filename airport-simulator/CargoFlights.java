@@ -11,6 +11,7 @@ public class CargoFlights extends flight{
     }
 
     public int getLoad() {
+        
         return load;
     }
 
